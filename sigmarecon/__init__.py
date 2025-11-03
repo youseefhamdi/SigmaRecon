@@ -6,7 +6,7 @@ A comprehensive reconnaissance platform that unifies 23+ subdomain enumeration t
 provides a resilient data collection pipeline, and supports extensible configuration management.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.2"
 __author__ = "El3aref"
 __description__ = "The Ultimate Subdomain Enumeration Tool for 2026"
 
